@@ -4,9 +4,6 @@ Create a K-means clustering algorithm to group customers of a retail store based
 
 ## Task 2: Create a K-means clustering algorithm to group customers of a retail store based on their purchase history.
 
-**Dataset:** https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
-<br>
-
 This task is part of my internship at Prodigy InfoTech, where i implemented a K-means clustering algorithm to group customers of a retail store based on their purchase history based on given features like CustomerID, Gender, Age, Annual Income (k$), Spending Score (1-100). 
 <br>
 
